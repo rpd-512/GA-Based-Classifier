@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# GA-Based-Classifier
-A Basic Ternary Classification Model based on Genetic Algorithm that fine-tunes weights in a weighted sum classification model. 
-=======
-<<<<<<< HEAD
-# GA-Based-Classifier
-A Basic Ternary Classification Model based on Genetic Algorithm that fine-tunes weights in a weighted sum classification model. 
-=======
-<<<<<<< HEAD
-# GA-Based-Classifier
-A Basic Ternary Classification Model based on Genetic Algorithm that fine-tunes weights in a weighted sum classification model. 
-=======
 # Ternary Classification Framework Using Genetic Algorithm
 
 This project implements a simple yet effective **ternary classification model** where decisions are made based on a weighted sum of input features. To enhance classification performance, a **Genetic Algorithm (GA)** is used to fine-tune the feature weights. The GA evolves a population of weight vectors through selection, crossover, and mutation, optimizing them to minimize classification error across three distinct classes.
@@ -83,11 +70,3 @@ These tools enable a detailed evaluation of classification accuracy, optimizatio
 - **Box Plot**: ![example_boxplot](images/example_boxplot.png)
 - **Confusion Matrix**: ![example_confusion_matrix](images/example_confusion_matrix.png)
 - **Convergence Line Graph**: ![example_line_graph](images/example_line_graph.png)
-
->>>>>>> b3eadc7 (Initial commit with project files)
->>>>>>> b1b2c40 (Initial commit)
->>>>>>> 122a0d6 (Initial commit)
-=======
-# GA-Based-Classifier
-A Basic Ternary Classification Model based on Genetic Algorithm that fine-tunes weights in a weighted sum classification model. 
->>>>>>> 1287091b1ee616757297f0730bf10bd3cd1580f6
