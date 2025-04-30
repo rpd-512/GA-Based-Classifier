@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GA-Based-Classifier
 A Basic Ternary Classification Model based on Genetic Algorithm that fine-tunes weights in a weighted sum classification model. 
 =======
@@ -86,3 +87,7 @@ These tools enable a detailed evaluation of classification accuracy, optimizatio
 >>>>>>> b3eadc7 (Initial commit with project files)
 >>>>>>> b1b2c40 (Initial commit)
 >>>>>>> 122a0d6 (Initial commit)
+=======
+# GA-Based-Classifier
+A Basic Ternary Classification Model based on Genetic Algorithm that fine-tunes weights in a weighted sum classification model. 
+>>>>>>> 1287091b1ee616757297f0730bf10bd3cd1580f6
