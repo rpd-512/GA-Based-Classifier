@@ -50,7 +50,7 @@ For example, **Experiment Var-5-B** refers to the configuration where the algori
 To compile and run the program, use the following command:
 
 ```
-g++ main.cpp -lpython3.12 -I/usr/include/python3.12/ -I/home/rapidfire69/.local/lib/python3.12/site-packages/numpy/_core/include
+g++ main.cpp -lpython3.12 -I/usr/include/python3.12/ -I/home/<username>/.local/lib/python3.12/site-packages/numpy/_core/include
 ```
 
 This command will execute the Genetic Algorithm multiple times across the datasets and generate output JSON files that can be used for statistical analysis.
@@ -67,6 +67,9 @@ These tools enable a detailed evaluation of classification accuracy, optimizatio
 
 ### Example Outputs from Experiment 5-B:
 
-- **Box Plot**: ![example_boxplot](images/example_boxplot.png)
-- **Confusion Matrix**: ![example_confusion_matrix](images/example_confusion_matrix.png)
-- **Convergence Line Graph**: ![example_line_graph](images/example_line_graph.png)
+- **Box Plot**:
+  ![example_boxplot](images/example_boxplot.png)
+- **Confusion Matrix**:
+  ![example_confusion_matrix](images/example_confusion_matrix.png)
+- **Convergence Line Graph**:
+  ![example_line_graph](images/example_line_graph.png)
